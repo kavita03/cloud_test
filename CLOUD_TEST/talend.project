@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_vy_i4R74EemZ5swP1Y_P-w" label="cloud_test" description="Testing Connection" language="java" technicalLabel="CLOUD_TEST" author="_vy_i4h74EemZ5swP1Y_P-w" productVersion="Talend Cloud Data Management Platform-7.1.1.20181026_1147" url="{&quot;location&quot;:&quot;https://github.com/kavita03/cloud_test&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <migrationTask xmi:id="_v3xVMB74EemZ5swP1Y_P-w" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_vy_i4h74EemZ5swP1Y_P-w" login="kavita.lad@trial17579.us.talend.com" firstName="Kavita" lastName="Lad" type="DQ"/>
+</xmi:XMI>
